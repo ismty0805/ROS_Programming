@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/opt/ros/melodic/include/**",
+        "/home/ismty0805/catkin_ws/src/ndt_omp/include/**",
+        "/home/ismty0805/catkin_ws/src/scan_matching_localizer_assignment/include/**",
+        "/home/ismty0805/catkin_ws/src/EE405_a_eurecar_f1_tenth_project/velodyne_simulator/velodyne_gazebo_plugins/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
